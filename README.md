@@ -1,4 +1,6 @@
-# LLM Basics to Applications
+# 밑바닥부터 시작하는 Agent
+
+**한국어** | [English](README.en.md)
 
 LLM과 AI coding agent가 어떻게 동작하는지 이해하기 위한 가이드 프로젝트입니다.
 
