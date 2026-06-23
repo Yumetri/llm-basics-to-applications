@@ -22,11 +22,11 @@ Shouldn't professionals try to understand how the tools they use actually work?
 
 ## Goal
 
-**Agent From Scratch** is a series that starts from that discomfort.
+Understand what happens behind each click, and become able to explain it instead of just pretending to know.
 
 ## Roadmap
 
-1. Build an agent loop in 400 lines (feat. LLM API)
+1. Build a tiny Claude Code-like agent in 400 lines (agent-loop)
 
 ## Project Structure
 

@@ -22,11 +22,11 @@
 
 ## Goal
 
-**밑바닥부터 시작하는 Agent**는 그 찝찝함에서 시작하는 시리즈다.
+딸깍 한 번 뒤에서 어떤 일이 일어나는지 이해하고, 이제는 대충 아는 척이 아니라 설명할 수 있게 되기.
 
 ## Roadmap
 
-1. Agent-loop 400줄로 구현하기 (feat. llm api)
+1. 400줄로 짭 Claude Code 만들기 (agent-loop)
 
 ## Project Structure
 
