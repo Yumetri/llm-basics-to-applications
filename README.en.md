@@ -1,7 +1,7 @@
 # Agent From Scratch
 
 <p align="center">
-  <img src="assets/agent-from-scratch-cover.png" alt="Agent From Scratch parody cover" width="520">
+  <img src="assets/agent-from-scratch-cover.png" alt="Agent From Scratch parody cover" width="360">
 </p>
 
 <p align="center">

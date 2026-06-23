@@ -1,7 +1,7 @@
 # 밑바닥부터 시작하는 Agent
 
 <p align="center">
-  <img src="assets/agent-from-scratch-cover.png" alt="밑바닥부터 시작하는 Agent 패러디 표지" width="520">
+  <img src="assets/agent-from-scratch-cover.png" alt="밑바닥부터 시작하는 Agent 패러디 표지" width="360">
 </p>
 
 <p align="center">
